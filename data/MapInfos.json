@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":true,"name":"PCComponentes BOSS","order":7,"parentId":5,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
 null,
 {"id":5,"expanded":true,"name":"PCComponentes","order":6,"parentId":1,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
-{"id":6,"expanded":true,"name":"mapaflor","order":16,"parentId":0,"scrollX":1081.3333333333333,"scrollY":670.6666666666666},
+{"id":6,"expanded":true,"name":"mapaflor","order":16,"parentId":0,"scrollX":1092,"scrollY":1310.6666666666667},
 {"id":7,"expanded":false,"name":"Escena Principal","order":8,"parentId":1,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
 {"id":8,"expanded":false,"name":"abel01","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
 {"id":9,"expanded":false,"name":"abel02","order":2,"parentId":8,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
@@ -18,7 +18,7 @@ null,
 {"id":16,"expanded":false,"name":"anabel1","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
 null,
 {"id":18,"expanded":false,"name":"anabel3","order":10,"parentId":16,"scrollX":811,"scrollY":449},
-{"id":19,"expanded":false,"name":"Jesus1","order":17,"parentId":0,"scrollX":1092,"scrollY":697.3333333333334},
+{"id":19,"expanded":true,"name":"Jesus1","order":17,"parentId":0,"scrollX":1092,"scrollY":697.3333333333334},
 {"id":20,"expanded":false,"name":"JesusCueva","order":19,"parentId":19,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
-{"id":21,"expanded":false,"name":"Jesus2","order":18,"parentId":19,"scrollX":1092,"scrollY":800}
+{"id":21,"expanded":false,"name":"Jesus2","order":18,"parentId":19,"scrollX":1081.3333333333333,"scrollY":800}
 ]
